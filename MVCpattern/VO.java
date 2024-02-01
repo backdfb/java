@@ -15,7 +15,7 @@ package BookVo;
 		public BookVO(String title, String author, String company, int page) {	
 			this.title = title;
 			this.author = author;
-  		        this.company = company;
+  	                this.company = company;
 			this.page = page;
 		}
 		
