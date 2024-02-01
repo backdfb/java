@@ -1,4 +1,4 @@
-package BookVo;
+package Book;
 
 	public class BookVO {
 		
